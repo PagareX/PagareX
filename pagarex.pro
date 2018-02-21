@@ -1,4 +1,4 @@
-TEMPLATE = app
+TEMPLATE = app 
 TARGET = PagareX-qt
 VERSION = 1.0.0.0
 INCLUDEPATH += src src/json src/qt src/qt/plugins/mrichtexteditor
